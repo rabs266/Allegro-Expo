@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1341428669 source:c:\users\davidmendozavelis\desktop\rutina disparos\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\davidmendozavelis\desktop\rutina disparos\inicia.h
+
+1353781732 source:c:\users\davidmendozavelis\desktop\rutina disparos\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1341428669 source:c:\users\davidmendozavelis\desktop\rutina disparos - copia (2)\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\davidmendozavelis\desktop\rutina disparos - copia (2)\inicia.h
+
+1395322923 source:d:\allegro\rutina disparos\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1395322824 d:\allegro\rutina disparos\inicia.h
+
+1395341692 source:d:\allegro\rutina disparos\main.cpp
+	<allegro.h>
+
